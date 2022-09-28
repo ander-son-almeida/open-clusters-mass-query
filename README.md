@@ -1,3 +1,6 @@
+[![Python Versions](https://img.shields.io/pypi/pyversions/pyqlib.svg?logo=python&logoColor=white)](https://pypi.org/project/pyqlib/#files)
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/pyqlib/#files)
+
 # About Project
 
 [Gaia catalogs](https://www.cosmos.esa.int/web/gaia/release) are queried using ADQL, a query language very similar to SQL. In the latest data release (DR3), Gaia includes a mass estimate for the observed stars.
