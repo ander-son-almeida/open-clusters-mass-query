@@ -10,7 +10,7 @@ The results of the comparisons are visually expressed in two graphs relating the
 
 In this project it is possible to compare open clusters individually or as a whole sample. Such objects are in the “results_eDR3_likelihood_2022” folder.
 
-In the [main.py](http://main.py/) file we have two parameters that assume boolean values: 1) “all_cluster” if set to “True” compares the mass of all clusters and 2) “cluster_target”, if set to “True” automatically activates “cluster_name”, that the user can manually enter the name of the open cluster. Both boolean values cannot be the same, it is up to the user to decide which analysis to select.
+In the [main.py](https://github.com/ander-son-almeida/open-clusters-mass-query/blob/master/main.py) file we have two parameters that assume boolean values: 1) “all_cluster” if set to “True” compares the mass of all clusters and 2) “cluster_target”, if set to “True” automatically activates “cluster_name”, that the user can manually enter the name of the open cluster. Both boolean values cannot be the same, it is up to the user to decide which analysis to select.
 
 ## E**xample of results**
 
