@@ -14,9 +14,9 @@ In the [main.py](http://main.py/) file we have two parameters that assume boolea
 
 ## E**xample of results**
 
-![all_clusterr_git.png](About%20Project%201b6211d34b3d406a98ca221a98a5e6c1/all_clusterr_git.png)
+![all_clusterr_git](https://user-images.githubusercontent.com/70342250/192856889-bb72c007-b3eb-4626-88d9-7bfef918decb.png)
 
-![pleiades_git.png](About%20Project%201b6211d34b3d406a98ca221a98a5e6c1/pleiades_git.png)
+![pleiades_git](https://user-images.githubusercontent.com/70342250/192856896-b3721b41-e549-40bb-8a6c-67a736775c5c.png)
 
 # R**equirements**
 
