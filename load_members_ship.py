@@ -79,33 +79,3 @@ def load_members_ship(diretorio, cluster_target, cluster_name, all_cluster):
                                              catalog_mass_bin), flatten=True)
             
             return members_ship
-            
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        

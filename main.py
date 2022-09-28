@@ -37,10 +37,3 @@ gaia_dr3 = query_gaia(members_ship)
 graphics(gaia_dr3_mass_ind, ind_catalog, gaia_dr3_mass_bin, bin_system_catalog, 
          cluster_name, all_cluster, cluster_target)
     
-    
-    
-    
-    
-    
-    
-    

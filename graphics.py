@@ -72,4 +72,3 @@ def graphics(gaia_dr3_mass_ind, ind_catalog, gaia_dr3_mass_bin, bin_system_catal
         ax[1].set_ylabel(r'This work ($M_{\odot}$)')
         ax[1].legend()
         
-    
